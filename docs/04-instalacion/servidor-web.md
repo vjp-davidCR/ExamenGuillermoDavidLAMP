@@ -1,5 +1,7 @@
 # Instalación y configuración del servidor web
 
+He hecho una editación
+
 ## 1. Objetivo
 
 Documentar la instalación del servidor web Apache, el soporte para PHP y la incorporación final de HAProxy como balanceador de carga.
