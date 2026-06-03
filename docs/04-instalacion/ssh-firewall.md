@@ -1,10 +1,20 @@
 # Configuración de SSH y firewall UFW
 
+<<<<<<< HEAD
 ## Reglas UFW para el ejemplo
 
 - Permitir SSH solo desde IP de la oficina: `sudo ufw allow from 192.168.1.0/24 to any port 22`
 - Permitir tráfico web HTTP: `sudo ufw allow 80/tcp`
 - Permitir tráfico HTTPS: `sudo ufw allow 443/tcp`
+=======
+## Configuración de firewall con UFW
+
+- `sudo ufw default deny incoming`
+- `sudo ufw default allow outgoing`
+- `sudo ufw allow 22/tcp`
+- `sudo ufw allow 80,443/tcp`
+- `sudo ufw enable`
+>>>>>>> 984c703 (Añadida configuración básica de firewall con UFW)
 
 ## 1. Objetivo
 
