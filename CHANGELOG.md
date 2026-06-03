@@ -2,8 +2,6 @@
 
 Todos los cambios importantes del proyecto se documentarán en este archivo.
 
-Estoy haciendo un cambio para el apartado 9
-
 El formato se inspira en Keep a Changelog y el proyecto usará versiones mediante releases de GitHub.
 
 ## [1.0.0] - Entrega final
