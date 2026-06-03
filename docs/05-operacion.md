@@ -1,5 +1,7 @@
 # 05. Guía de operación y mantenimiento
 
+He hecho otra editación, o no
+
 ## 1. Objetivo
 
 Ofrecer al cliente una guía clara para mantener la infraestructura LAMP operativa, segura y revisada.
