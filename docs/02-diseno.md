@@ -1,12 +1,5 @@
 # 02. Diseño de la infraestructura
 
-| Tecnología | Versión | Uso |
-|---|---|---|
-| Apache | 2.4.60 | Servidor web |
-| MySQL | 8.0 | Base de datos |
-| PHP | 8.x | Lenguaje de servidor |
-| Certbot | 2.9 | Certificados SSL/TLS |
-
 ## 1. Arquitectura propuesta
 
 La infraestructura propuesta se basa en una pila LAMP sobre Ubuntu Server. Como mejora final del proyecto, se añade HAProxy delante de Apache para actuar como balanceador de carga y punto de entrada del tráfico HTTP/HTTPS.
