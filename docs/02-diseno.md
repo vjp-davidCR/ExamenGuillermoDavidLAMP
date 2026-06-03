@@ -1,6 +1,11 @@
 # 02. Diseño de la infraestructura
 
-Apache 2.4.60
+| Tecnología | Versión | Uso |
+|---|---|---|
+| Apache | 2.4.60 | Servidor web |
+| MySQL | 8.0 | Base de datos |
+| PHP | 8.x | Lenguaje de servidor |
+| Certbot | 2.9 | Certificados SSL/TLS |
 
 ## 1. Arquitectura propuesta
 
